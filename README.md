@@ -1,4 +1,4 @@
-Hi there, I'm Guilherme!
+## Hi there, I'm Guilherme!
 
 I'm a Software Engineer from Brazil 🇧🇷 with 7 years of experience working with Frontend, Backend and Mobile development.
 
