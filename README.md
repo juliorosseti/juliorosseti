@@ -1,15 +1,22 @@
-## Hi there, I'm Júlio!
+## Hi there, I'm Júlio Rosseti!
 
-I'm a Software Engineer from Brazil 🇧🇷 with 10 years of experience working with Frontend and Backend development.
+Software Engineer from Brazil and currently work at [Compass.uol](https://compass.uol/).
 
-- 💻 I currently work at [Compass.uol](https://compass.uol/)
-- 📚 Studying English, Node.Js and Architecture
-- 🧠 But I'm always open to discover new things
-- 👋🏻 I'm looking to collaborate on Open Source Projects
-- 😊 Oh, and I'm also a streamer at Twitch
 
-### Get in touch
+#### Get in touch
 
-- ✉️ [Email](mailto:julio@rosseti.xyz)
-- ⚡ [Linkedin](https://www.linkedin.com/in/juliorosseti/)
-- 🔴 [Twitch](https://nipw.live/)
+<a href="mailto:julio@rosseti.xyz" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/juliorosseti/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://twitch.tv/nipw" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />
+</a>
+
+<a href="https://steamcommunity.com/id/nipw/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
+</a>
