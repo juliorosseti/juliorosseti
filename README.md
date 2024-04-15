@@ -12,11 +12,3 @@ Software Engineer from Brazil and currently work at [TexoIT](https://www.texoit.
 <a href="https://www.linkedin.com/in/juliorosseti/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
-<a href="https://twitch.tv/nipw" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />
-</a>
-
-<a href="https://steamcommunity.com/id/nipw/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
-</a>
