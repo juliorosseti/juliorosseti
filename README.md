@@ -1,6 +1,6 @@
 ## Hi there, I'm Júlio Rosseti!
 
-Software Engineer from Brazil and currently work at [Compass.uol](https://compass.uol/).
+Software Engineer from Brazil and currently work at [TexoIT](https://www.texoit.com).
 
 
 #### Get in touch
